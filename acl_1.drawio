@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T09:37:48.254Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MYEHZIl0WwILb6GCf3Yy" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T09:40:15.375Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="MqTuITvdXp_LwJ-qIYYE" version="14.1.9" type="github">
   <diagram id="rELSRqQGaBVKi-MMIzoR" name="Page-1">
-    <mxGraphModel dx="946" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,22 +28,19 @@
         <mxCell id="krNY_DJbEI_IQzcqu2dD-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; Input:&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; Hyperparmeters:&lt;br&gt;&amp;nbsp; &amp;nbsp; Output:&lt;/b&gt;&lt;br&gt;&lt;br&gt;1: Procedure&lt;br&gt;2:&lt;br&gt;3:&lt;br&gt;4:&lt;br&gt;5:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;10:&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="krNY_DJbEI_IQzcqu2dD-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="60" y="100" width="269.5" height="255" as="geometry" />
+        <mxCell id="krNY_DJbEI_IQzcqu2dD-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;rounded=1;labelBackgroundColor=#66FFFF;gradientColor=#ffffff;rotation=90;fillColor=#FF8000;gradientDirection=south;opacity=30;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="207" width="194" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="krNY_DJbEI_IQzcqu2dD-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;rounded=1;labelBackgroundColor=#66FFFF;gradientColor=#ffffff;rotation=90;fillColor=#FF8000;gradientDirection=south;opacity=30;strokeColor=none;" vertex="1" parent="krNY_DJbEI_IQzcqu2dD-16">
-          <mxGeometry x="140" y="107" width="194" height="65" as="geometry" />
+        <mxCell id="krNY_DJbEI_IQzcqu2dD-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="100" width="220" height="255" as="geometry" />
         </mxCell>
-        <mxCell id="krNY_DJbEI_IQzcqu2dD-2" value="" style="group" vertex="1" connectable="0" parent="krNY_DJbEI_IQzcqu2dD-16">
-          <mxGeometry width="220" height="255" as="geometry" />
+        <mxCell id="krNY_DJbEI_IQzcqu2dD-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Teacher Model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;strokeWidth=2;" vertex="1" parent="krNY_DJbEI_IQzcqu2dD-2">
+          <mxGeometry x="70" y="15" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="krNY_DJbEI_IQzcqu2dD-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Teacher Model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="krNY_DJbEI_IQzcqu2dD-2">
-          <mxGeometry x="70" y="2" width="120" height="50" as="geometry" />
+        <mxCell id="krNY_DJbEI_IQzcqu2dD-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Student Model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;strokeWidth=2;" vertex="1" parent="krNY_DJbEI_IQzcqu2dD-2">
+          <mxGeometry x="70" y="216" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="krNY_DJbEI_IQzcqu2dD-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Student Model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="krNY_DJbEI_IQzcqu2dD-2">
-          <mxGeometry x="70" y="225" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="krNY_DJbEI_IQzcqu2dD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;" edge="1" parent="krNY_DJbEI_IQzcqu2dD-2" source="krNY_DJbEI_IQzcqu2dD-3" target="krNY_DJbEI_IQzcqu2dD-4">
+        <mxCell id="krNY_DJbEI_IQzcqu2dD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;strokeWidth=2;" edge="1" parent="krNY_DJbEI_IQzcqu2dD-2" source="krNY_DJbEI_IQzcqu2dD-3" target="krNY_DJbEI_IQzcqu2dD-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="krNY_DJbEI_IQzcqu2dD-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span&gt;Pseudo&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span&gt;Training Date&lt;/span&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#FFE6CC;" vertex="1" parent="krNY_DJbEI_IQzcqu2dD-2">
