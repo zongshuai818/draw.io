@@ -1,14 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T09:32:03.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="cos40odF-gNUHjYO2IJ5" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-12T09:36:57.672Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="lX5oga_89gKfol6I4_Z8" version="14.1.9" type="github">
   <diagram id="rELSRqQGaBVKi-MMIzoR" name="Page-1">
     <mxGraphModel dx="946" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="krNY_DJbEI_IQzcqu2dD-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;rounded=1;labelBackgroundColor=#66FFFF;gradientColor=#ffffff;rotation=90;fillColor=#FF8000;gradientDirection=south;opacity=30;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="207" width="194" height="65" as="geometry" />
+        <mxCell id="krNY_DJbEI_IQzcqu2dD-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Algorithm 1&lt;/b&gt;&amp;nbsp;Manifold Transfer Guided&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; text-align: center&quot;&gt;Pseudo Data Update&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="krNY_DJbEI_IQzcqu2dD-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="50" y="100" width="220" height="255" as="geometry" />
+        <mxCell id="krNY_DJbEI_IQzcqu2dD-12" value="" style="shape=link;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#FF8000;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="krNY_DJbEI_IQzcqu2dD-11">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="360" y="80" as="sourcePoint" />
+            <mxPoint x="460" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krNY_DJbEI_IQzcqu2dD-13" value="" style="shape=link;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#FF8000;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="360" y="110" as="sourcePoint" />
+            <mxPoint x="690" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krNY_DJbEI_IQzcqu2dD-14" value="" style="shape=link;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#FF8000;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="360" y="380" as="sourcePoint" />
+            <mxPoint x="690" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="krNY_DJbEI_IQzcqu2dD-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; Input:&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; Hyperparmeters:&lt;br&gt;&amp;nbsp; &amp;nbsp; Output:&lt;/b&gt;&lt;br&gt;&lt;br&gt;1: Procedure&lt;br&gt;2:&lt;br&gt;3:&lt;br&gt;4:&lt;br&gt;5:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;10:&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="krNY_DJbEI_IQzcqu2dD-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="100" width="269.5" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="krNY_DJbEI_IQzcqu2dD-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;rounded=1;labelBackgroundColor=#66FFFF;gradientColor=#ffffff;rotation=90;fillColor=#FF8000;gradientDirection=south;opacity=30;strokeColor=none;" vertex="1" parent="krNY_DJbEI_IQzcqu2dD-16">
+          <mxGeometry x="140" y="107" width="194" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="krNY_DJbEI_IQzcqu2dD-2" value="" style="group" vertex="1" connectable="0" parent="krNY_DJbEI_IQzcqu2dD-16">
+          <mxGeometry width="220" height="255" as="geometry" />
         </mxCell>
         <mxCell id="krNY_DJbEI_IQzcqu2dD-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Teacher Model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;" vertex="1" parent="krNY_DJbEI_IQzcqu2dD-2">
           <mxGeometry x="70" y="2" width="120" height="50" as="geometry" />
@@ -48,30 +75,6 @@
               <mxPoint x="150" y="90" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="krNY_DJbEI_IQzcqu2dD-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Algorithm 1&lt;/b&gt;&amp;nbsp;Manifold Transfer Guided&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; text-align: center&quot;&gt;Pseudo Data Update&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="80" width="330" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="krNY_DJbEI_IQzcqu2dD-12" value="" style="shape=link;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#FF8000;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="krNY_DJbEI_IQzcqu2dD-11">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="360" y="80" as="sourcePoint" />
-            <mxPoint x="460" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="krNY_DJbEI_IQzcqu2dD-13" value="" style="shape=link;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#FF8000;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="360" y="110" as="sourcePoint" />
-            <mxPoint x="690" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="krNY_DJbEI_IQzcqu2dD-14" value="" style="shape=link;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#FF8000;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="360" y="380" as="sourcePoint" />
-            <mxPoint x="690" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="krNY_DJbEI_IQzcqu2dD-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; Input:&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; Hyperparmeters:&lt;br&gt;&amp;nbsp; &amp;nbsp; Output:&lt;/b&gt;&lt;br&gt;&lt;br&gt;1: Procedure&lt;br&gt;2:&lt;br&gt;3:&lt;br&gt;4:&lt;br&gt;5:&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;10:&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="120" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
