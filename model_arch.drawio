@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T04:40:42.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="A3-R6VAUGfRVfHTRMHpH" version="14.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-13T05:16:31.695Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="K5Er3NiaRDuf2TeaurdC" version="14.1.9" type="github">
   <diagram id="rELSRqQGaBVKi-MMIzoR" name="Page-1">
-    <mxGraphModel dx="946" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="921" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="krNY_DJbEI_IQzcqu2dD-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Algorithm 1&lt;/b&gt;&amp;nbsp;Manifold Transfer Guided&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; text-align: center&quot;&gt;Pseudo Data Update&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="80" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="krNY_DJbEI_IQzcqu2dD-12" value="" style="shape=link;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#FF8000;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" target="krNY_DJbEI_IQzcqu2dD-11" edge="1">
+        <mxCell id="krNY_DJbEI_IQzcqu2dD-12" value="" style="shape=link;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" target="krNY_DJbEI_IQzcqu2dD-11" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="360" y="80" as="sourcePoint" />
             <mxPoint x="460" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="krNY_DJbEI_IQzcqu2dD-13" value="" style="shape=link;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#FF8000;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+        <mxCell id="krNY_DJbEI_IQzcqu2dD-13" value="" style="shape=link;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="360" y="110" as="sourcePoint" />
             <mxPoint x="690" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="krNY_DJbEI_IQzcqu2dD-14" value="" style="shape=link;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeColor=#FF8000;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+        <mxCell id="krNY_DJbEI_IQzcqu2dD-14" value="" style="shape=link;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=#33001A;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="360" y="380" as="sourcePoint" />
             <mxPoint x="690" y="380" as="targetPoint" />
