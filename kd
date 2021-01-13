@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T06:45:04.368Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.9" etag="MNF8aadnGrIm6-4fRkLs" type="github"><diagram id="I6o8PzYeTMxPFNDLs8Ts">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-13T06:47:34.171Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="u5IEbaFdqE4bgsDOy1u-" version="14.1.9" type="github">
+  <diagram id="I6o8PzYeTMxPFNDLs8Ts" name="Page-1">
+    <mxGraphModel dx="921" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L2Zdai99IGI8WG3hL6vt-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="100" width="220" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="L2Zdai99IGI8WG3hL6vt-3" value="" style="shape=flexArrow;endArrow=classic;html=1;opacity=60;strokeColor=none;fillColor=#99CCFF;gradientColor=#ffffff;gradientDirection=east;" edge="1" parent="L2Zdai99IGI8WG3hL6vt-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="42" as="sourcePoint" />
+            <mxPoint x="39.5" y="227" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2Zdai99IGI8WG3hL6vt-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Teacher Model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;strokeWidth=2;" vertex="1" parent="L2Zdai99IGI8WG3hL6vt-2">
+          <mxGeometry x="70" y="15" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L2Zdai99IGI8WG3hL6vt-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Student Model&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;strokeWidth=2;" vertex="1" parent="L2Zdai99IGI8WG3hL6vt-2">
+          <mxGeometry x="70" y="216" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L2Zdai99IGI8WG3hL6vt-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#007FFF;strokeWidth=2;" edge="1" parent="L2Zdai99IGI8WG3hL6vt-2" source="L2Zdai99IGI8WG3hL6vt-4" target="L2Zdai99IGI8WG3hL6vt-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L2Zdai99IGI8WG3hL6vt-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span&gt;Pseudo&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;span&gt;Training Date&lt;/span&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#FFE6CC;" vertex="1" parent="L2Zdai99IGI8WG3hL6vt-2">
+          <mxGeometry x="70" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L2Zdai99IGI8WG3hL6vt-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;Distillation&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="L2Zdai99IGI8WG3hL6vt-2">
+          <mxGeometry y="130" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L2Zdai99IGI8WG3hL6vt-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=none;html=1;startArrow=none;startFill=0;endFill=0;strokeColor=#FF8000;" edge="1" parent="L2Zdai99IGI8WG3hL6vt-2">
+          <mxGeometry x="150" y="80" width="50" height="50" as="geometry">
+            <mxPoint x="150" y="170" as="sourcePoint" />
+            <mxPoint x="220" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="192" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2Zdai99IGI8WG3hL6vt-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;Update&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="L2Zdai99IGI8WG3hL6vt-9">
+          <mxGeometry x="0.6185" relative="1" as="geometry">
+            <mxPoint y="-1.9999999999999991" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2Zdai99IGI8WG3hL6vt-11" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;strokeColor=#FF8000;" edge="1" parent="L2Zdai99IGI8WG3hL6vt-2">
+          <mxGeometry x="150" y="80" width="50" height="50" as="geometry">
+            <mxPoint x="220" y="122.30769230769232" as="sourcePoint" />
+            <mxPoint x="150" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="90" />
+              <mxPoint x="150" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
